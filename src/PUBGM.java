@@ -1,7 +1,7 @@
 public class PUBGM {
 
     //attribute
-    String Username;
+    String userName;
     int score;
     double length;
 
