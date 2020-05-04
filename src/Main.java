@@ -4,11 +4,11 @@ public class Main {
         PUBGM player1 = new PUBGM();
         PUBGM player2 = new PUBGM();
 
-        player1.userName = "Dhienoot";
+        player1.userName = "RosaAuliaaa";
         player1.score = 1/100;
         player2.length= 4.5;
 
-        player1.userName = "Icun";
+        player1.userName = "Lokotolo";
         player1.score = 2/100;
         player2.length= 4.0;
 
